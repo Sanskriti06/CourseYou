@@ -1,0 +1,10 @@
+.searchhbar{
+    text-align:  center;
+    width: 300px;
+    height: 38px;
+    border-width: 2px 2px 2px 2px;
+}
+.texxt{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,0 +1,11 @@
+.navbar-nav{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(238, 238, 238);
+}
+.navbar navbar-expand-lg bg-light{
+    background-color: rgb(0, 0, 0);
+}
+.navbar navbar-expand-lg bg-dark{
+    color: aliceblue;
+}

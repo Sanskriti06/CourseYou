@@ -1,0 +1,39 @@
+.container2{
+    height: 95vh;
+    align-items: center;
+    text-align: center;
+    color: antiquewhite;
+    justify-content: center;
+    background-image: url("https://i.pinimg.com/originals/03/a0/0f/03a00f00d52f56b448e99454c9be5e90.gif");
+    /* background-image: url("https://i.pinimg.com/originals/1b/74/ed/1b74ed53670b66f50f4a0a2d4c59f7f5.gif"); */
+}
+.frm{
+    margin: 10px;
+    margin-left: 240px;
+    margin-right: 240px;
+    padding: 20px;
+    color: aliceblue;
+    background-image: url("https://i.pinimg.com/originals/03/a0/0f/03a00f00d52f56b448e99454c9be5e90.gif");
+    /* background-color: aliceblue; */
+    border-radius: 25px;
+    border-color: antiquewhite;
+}
+.signlabel{
+    font-size: 24px;
+    font-family: cursive;
+    font-weight: 24px;
+}
+.rowww{
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 23vw;
+    /* padding: 10px; */
+}
+#btttn{
+    width: 30%;
+    /* justify-content: center;
+    justify-items: center;
+    text-align: center; */
+}
